@@ -1,0 +1,41 @@
+golang-github-blang-semver (3.5.1-1) unstable; urgency=medium
+
+  * Team upload.
+  * New upstream version 3.5.1
+  * Change package Priority to optional
+  * Update Standards-Version to 4.1.0
+
+ -- Dr. Tobias Quathamer <toddy@debian.org>  Tue, 29 Aug 2017 13:29:45 +0200
+
+golang-github-blang-semver (3.5.0-1) unstable; urgency=medium
+
+  [ Tim Potter ]
+  * Team upload.
+  * Add me to uploaders
+
+  [ Dr. Tobias Quathamer ]
+  * New upstream version 3.5.0
+  * Update d/copyright
+  * Use debhelper v10
+  * Depend on golang-any instead of golang-go
+  * Update Standards-Version to 4.0.0
+  * Update d/watch
+
+ -- Dr. Tobias Quathamer <toddy@debian.org>  Wed, 26 Jul 2017 21:51:55 +0200
+
+golang-github-blang-semver (3.3.0-1) unstable; urgency=medium
+
+  [ Paul Tagliamonte ]
+  * Team upload.
+  * Use a secure transport for the Vcs-Git and Vcs-Browser URL
+
+  [ Dr. Tobias Quathamer ]
+  * Imported Upstream version 3.3.0
+
+ -- Dr. Tobias Quathamer <toddy@debian.org>  Sun, 03 Jul 2016 18:06:14 +0200
+
+golang-github-blang-semver (3.1.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #819032).
+
+ -- Dmitry Smirnov <onlyjob@debian.org>  Wed, 23 Mar 2016 15:28:52 +1100
